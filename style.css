@@ -78,3 +78,6 @@ main p {
   color: #888;
   text-decoration: none;
 }
+img {
+  display: flex;
+}
